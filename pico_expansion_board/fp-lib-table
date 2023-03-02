@@ -4,5 +4,6 @@
   (lib (name "fab")(type "KiCad")(uri "${KIPRJMOD}/fab.pretty")(options "")(descr ""))
   (lib (name "Connector_IDC")(type "KiCad")(uri "${KIPRJMOD}/Connector_IDC.pretty")(options "")(descr ""))
   (lib (name "Connector_JST")(type "KiCad")(uri "${KIPRJMOD}/Connector_JST.pretty")(options "")(descr ""))
-  (lib (name "SnapEDAFootPrint")(type "KiCad")(uri "${KIPRJMOD}/SnapEDAFootPrint")(options "")(descr ""))
+  (lib (name "Extra Footprints")(type "KiCad")(uri "${KIPRJMOD}/Extra Footprints")(options "")(descr ""))
+  (lib (name "Custom_Footprint")(type "KiCad")(uri "${KIPRJMOD}/Custom_Footprint.pretty")(options "")(descr ""))
 )

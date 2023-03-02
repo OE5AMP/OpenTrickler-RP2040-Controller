@@ -4,4 +4,5 @@
   (lib (name "fab")(type "KiCad")(uri "${KIPRJMOD}/fab.kicad_sym")(options "")(descr ""))
   (lib (name "TPS5450DDAR")(type "KiCad")(uri "${KIPRJMOD}/TPS5450DDAR.kicad_sym")(options "")(descr ""))
   (lib (name "SS54")(type "KiCad")(uri "${KIPRJMOD}/SS54.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS5450DDA")(type "Legacy")(uri "${KIPRJMOD}/TPS5450DDA.lib")(options "")(descr ""))
 )
