@@ -343,7 +343,7 @@
       (net 58 "MOTOR_UART") (pinfunction "A") (pintype "passive") (tstamp 291aa2a0-dbec-494e-bb33-a5f3f34ed57e))
     (pad "2" thru_hole oval (at 0 2 90) (size 1.35 1.35) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 21 "Net-(J3-UART)") (pinfunction "B") (pintype "passive") (tstamp 7df52d3c-0e28-41fd-ba9a-f44c9612c11e))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.00mm.3dshapes/PinSocket_1x02_P2.00mm_Vertical.wrl"
+    (model "${KICAD7_3DMODEL_DIR}/Connector_PinHeader_2.00mm.3dshapes/PinHeader_1x02_P2.00mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2979,11 +2979,11 @@
     (property "ki_keywords" "Jumper SPST")
     (path "/4c306a0c-ec25-4259-bfca-58cb803e8ccf")
     (attr through_hole)
-    (fp_text reference "JP4" (at 0 -2.5 -90) (layer "F.SilkS")
+    (fp_text reference "JP4" (at 0 -2.5 90) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 064b2ebc-e931-4003-b9c5-0bb8c9fd1897)
     )
-    (fp_text value "M2_UART_OP2" (at 0 4.5 -90) (layer "F.Fab")
+    (fp_text value "M2_UART_OP2" (at 0 4.5 90) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 91d92694-8664-47b9-84a6-3a3f90e07954)
     )
@@ -3025,7 +3025,7 @@
       (net 22 "Net-(J3-PDN)") (pinfunction "A") (pintype "passive") (tstamp 7a9545ed-7597-4091-bd19-f113c668c76d))
     (pad "2" thru_hole oval (at 0 2 270) (size 1.35 1.35) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 58 "MOTOR_UART") (pinfunction "B") (pintype "passive") (tstamp bcfdb822-4462-4886-afc8-e35429d17cef))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.00mm.3dshapes/PinSocket_1x02_P2.00mm_Vertical.wrl"
+    (model "${KICAD7_3DMODEL_DIR}/Connector_PinHeader_2.00mm.3dshapes/PinHeader_1x02_P2.00mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
