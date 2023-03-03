@@ -1165,6 +1165,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model ":KICAD7_3DMODEL_DIR:Package_SO.3dshapes/HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm" (layer "F.Cu")
@@ -1348,6 +1353,11 @@
       (net 86 "Net-(IC1-PH)") (pinfunction "1") (pintype "passive") (thermal_bridge_angle 45) (tstamp a8ce6240-e439-49e5-ad45-63c1cfbcce5d))
     (pad "2" smd rect (at 10.6 5 90) (size 4 3) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 4 "+5V") (pinfunction "2") (pintype "passive") (thermal_bridge_angle 45) (tstamp 1b8d035d-9a5c-4a8f-bcc2-296027f58c55))
+    (model ":KICAD7_3DMODEL_DIR:Inductor_SMD.3dshapes/L_Sunlord_SWRB1204S.step"
+      (offset (xyz 5.5 -5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical" (layer "F.Cu")
@@ -2966,6 +2976,11 @@
       (net 3 "GND") (pintype "passive") (tstamp b3e5fcbd-edbd-467d-9575-8719ac08e362))
     (pad "C" smd rect (at -2.05 0 180) (size 1.8 1.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 86 "Net-(IC1-PH)") (pintype "passive") (tstamp c6cda109-016e-491b-b00d-d35f78d86c04))
+    (model ":KICAD7_3DMODEL_DIR:Diode_SMD.3dshapes/D_SMA.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Connector_PinSocket_2.00mm:PinSocket_1x02_P2.00mm_Vertical" (layer "F.Cu")
